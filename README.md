@@ -1,0 +1,1 @@
+# lab-10-Bases-de-datos-ndices
